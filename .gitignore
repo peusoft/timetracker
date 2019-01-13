@@ -24,10 +24,5 @@ hs_err_pid*
 /.idea/
 .gradle/
 .idea/
-build.gradle
-gradle/wrapper/gradle-wrapper.properties
-gradlew
-gradlew.bat
-settings.gradle
-src/
+out
 timetracker.iml
